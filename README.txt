@@ -1,34 +1,19 @@
-# 🏛️ Justice-Tech : Assistant Juridique RAG (Droit Marocain)
+⚖️ **Justice-Tech : Assistant Juridique RAG (Droit Marocain)**
 
 Bienvenue dans la documentation technique du projet **Justice-Tech**, développé dans le cadre d'un Stage de Fin d'Année (PFA) chez **3D Smart Factory**.
-
 Cette application est un système de **Génération Accrue par Récupération (RAG)** conçu pour démocratiser et vulgariser l'accès au droit marocain (Droit du travail, Protection du consommateur, Loi bancaire et Contrats).
-
 ---
 
-## 📋 Table des Matières
-1. [Architecture & Technologies](#-architecture--technologies)
-2. [Structure du Projet](#-structure-du-projet)
-3. [Prérequis & Installation](#-prérequis--installation)
-4. [Configuration des Clés API](#-configuration-des-clés-api)
-5. [Lancement de l'Application](#-lancement-de-lapplication)
-6. [Fonctionnalités & Pipeline RAG](#-fonctionnalités--pipeline-rag)
-7. [Évaluation & Contrôle Qualité (LLM Juge)](#-évaluation--contrôle-qualité-llm-juge)
-
----
-
-## 🛠️ Architecture & Technologies
-
+🛠️ **Architecture & Technologies**
 - **Interface Utilisateur :** Streamlit
 - **Framework RAG :** LangChain
 - **Base de Données Vectorielle :** ChromaDB
 - **Modèle d'Embedding :** `BAAI/bge-m3`
 - **Moteur d'Inférence / LLM :** `Qwen 27B` (via l'API Groq)
 - **Modèle LLM Juge :** `GPT-OSS-120B` (Évaluation automatique)
+--
 
----
-
-## 📁 Structure du Projet
+📁 **Structure du Projet**
 
 ```text
 2.3_2.4_code_source/
