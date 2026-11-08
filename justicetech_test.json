@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "domaine": "Code du Travail",
+    "question": "Quel est le délai de préavis légal pour la démission d'un employé non cadre ayant 3 ans d'ancienneté au Maroc ?",
+    "reponse_reference": "Selon le décret d'application de l'article 43 du Code du Travail marocain, le délai de préavis pour un employé ou ouvrier ayant entre 1 et 5 ans d'ancienneté est fixé à 2 mois."
+  },
+  {
+    "id": 2,
+    "domaine": "Code du Travail",
+    "question": "Quelle est la durée légale maximale de la période d'essai pour un contrat à durée indéterminée (CDI) concernant un cadre ?",
+    "reponse_reference": "Conformément à l'article 13 du Code du Travail, la période d'essai pour les cadres en CDI est de 3 mois, renouvelable une seule fois."
+  },
+  {
+    "id": 3,
+    "domaine": "Code du Travail",
+    "question": "Un employeur peut-il licencier une salariée en raison de sa grossesse ?",
+    "reponse_reference": "Non, l'article 36 du Code du Travail interdit strictement le licenciement d'une salariée en raison de son état de grossesse ou durant son congé de maternité. Un tel licenciement est considéré comme abusif."
+  },
+  {
+    "id": 4,
+    "domaine": "Code du Travail",
+    "question": "Quel est le taux de majoration appliqué pour les heures supplémentaires effectuées le dimanche entre 6h et 21h ?",
+    "reponse_reference": "Selon l'article 201 du Code du Travail, les heures supplémentaires effectuées le jour du repos hebdomadaire (dimanche) entre 6h et 21h sont majorées de 50 %."
+  },
+  {
+    "id": 5,
+    "domaine": "Code du Travail",
+    "question": "À combien de jours de congé payé annuel un salarié a-t-il droit après 1 an de service continu ?",
+    "reponse_reference": "Selon l'article 231 du Code du Travail, le salarié a droit à 1,5 jour de congé payé par mois de service, soit 18 jours ouvrables (ou 1,5 jour ouvrable par mois) pour un an de service."
+  },
+  {
+    "id": 6,
+    "domaine": "Code du Travail",
+    "question": "Quelle est la procédure obligatoire à respecter avant de prononcer le licenciement pour faute grave d'un salarié ?",
+    "reponse_reference": "Conformément aux articles 62 et 65 du Code du Travail, l'employeur doit convoquer le salarié à un entretien d'écoute dans un délai ne dépassant pas 8 jours à compter de la constatation de la faute, en présence du délégué des salariés."
+  },
+  {
+    "id": 7,
+    "domaine": "Code du Travail",
+    "question": "En cas de licenciement abusif, à quel montant correspond l'indemnité de dommage et intérêts octroyée par le juge ?",
+    "reponse_reference": "Selon l'article 41 du Code du Travail, l'indemnité pour licenciement abusif est fixée à 1,5 mois de salaire par année ou fraction d'année d'ancienneté, plafonnée à 36 mois de salaire."
+  },
+  {
+    "id": 8,
+    "domaine": "Code du Travail",
+    "question": "Combien de jours de congé pour naissance sont accordés au père salarié ?",
+    "reponse_reference": "Selon l'article 269 du Code du Travail, le père salarié bénéficie d'un congé de naissance payé de 3 jours consécutifs ou non."
+  },
+  {
+    "id": 9,
+    "domaine": "Code du Travail",
+    "question": "Quelle est la durée hebdomadaire légale du travail dans les activités non agricoles au Maroc ?",
+    "reponse_reference": "Selon l'article 184 du Code du Travail, la durée annuelle globale du travail est fixée à 2288 heures par an, soit 44 heures par semaine pour les secteurs non agricoles."
+  },
+  {
+    "id": 10,
+    "domaine": "Code du Travail",
+    "question": "Quel est le délai de prescription pour porter une action en justice concernant le paiement de salaires ou d'heures supplémentaires ?",
+    "reponse_reference": "Selon l'article 388 du Dahir formant Code des Obligations et des Contrats (DOC) et le Code du Travail, la prescription pour les actions en paiement de salaires est de 2 ans."
+  },
+  {
+    "id": 11,
+    "domaine": "Protection du Consommateur",
+    "question": "Quel est le délai légal de rétractation pour un consommateur lors d'un achat effectué par vente à distance (e-commerce) au Maroc ?",
+    "reponse_reference": "Selon l'article 36 de la Loi n° 31-08 édictant des mesures de protection du consommateur, le consommateur dispose d'un délai de 7 jours francs pour exercer son droit de rétractation sans avoir à justifier de motifs ni à payer de pénalités."
+  },
+  {
+    "id": 12,
+    "domaine": "Protection du Consommateur",
+    "question": "Que prévoit la loi marocaine en cas d'affichage d'un prix erroné ou d'absence d'affichage du prix dans un commerce ?",
+    "reponse_reference": "Les articles 3 et 4 de la Loi 31-08 imposent l'obligation d'information sur les prix. Le consommateur a le droit d'exiger le prix affiché, et le vendeur s'expose à des amendes pour défaut d'information du consommateur."
+  },
+  {
+    "id": 13,
+    "domaine": "Protection du Consommateur",
+    "question": "Quelles sont les clauses considérées comme abusives dans un contrat conclu entre un fournisseur et un consommateur ?",
+    "reponse_reference": "Selon l'article 15 de la Loi 31-08, est abusive toute clause qui a pour objet ou pour effet de créer un déséquilibre significatif entre les droits et obligations des parties au détriment du consommateur (ex: exonération totale de responsabilité du fournisseur)."
+  },
+  {
+    "id": 14,
+    "domaine": "Protection du Consommateur",
+    "question": "Un vendeur peut-il imposer l'achat d'une quantité minimale ou subordonner la vente d'un produit à l'achat d'un autre ?",
+    "reponse_reference": "Non, l'article 57 de la Loi 31-08 et la réglementation sur la liberté des prix et de la concurrence interdisent la vente liée ainsi que le refus de vente sans motif légitime au consommateur."
+  },
+  {
+    "id": 15,
+    "domaine": "Protection du Consommateur",
+    "question": "En cas de crédit à la consommation, quel est le délai de rétractation accordé à l'emprunteur après acceptation de l'offre préalable ?",
+    "reponse_reference": "Selon l'article 85 de la Loi 31-08, l'emprunteur dispose d'un délai de rétractation de 7 jours à compter de son acceptation de l'offre préalable de crédit."
+  },
+  {
+    "id": 16,
+    "domaine": "Protection du Consommateur",
+    "question": "La garantie légale des défauts cachés (vices cachés) s'applique-t-elle à la vente de biens de consommation au Maroc ?",
+    "reponse_reference": "Oui, conformément aux articles 65 et suivants de la Loi 31-08 et aux articles 549 du DOC, le fournisseur est tenu de la garantie légale des vices cachés qui rendent le bien impropre à l'usage destiné."
+  },
+  {
+    "id": 17,
+    "domaine": "Protection du Consommateur",
+    "question": "Quelle est la durée de validité minimale d'un devis ou d'une offre préalable pour des travaux ou services ?",
+    "reponse_reference": "Selon la Loi 31-08, le fournisseur reste engagé par les termes du devis ou de l'offre préalable pour une durée d'au moins 15 jours à compter de sa remise au consommateur."
+  },
+  {
+    "id": 18,
+    "domaine": "Protection du Consommateur",
+    "question": "Est-il légal d'envoyer des messages publicitaires ou de la prospection commerciale directe sans l'accord préalable du consommateur (Opt-In) ?",
+    "reponse_reference": "Selon les dispositions de la Loi 31-08 et de la Loi 09-08 relative à la protection des données personnelles, le traitement à des fins de prospection directe requiert le consentement préalable du consommateur, avec possibilité de s'opposer gratuitement (Opt-Out)."
+  },
+  {
+    "id": 19,
+    "domaine": "Protection du Consommateur",
+    "question": "Quelle instance le consommateur marocain peut-il saisir en cas de litige avec un professionnel pour une médiation ?",
+    "reponse_reference": "Le consommateur peut saisir les associations de protection du consommateur reconnues d'utilité publique, le Centre Marocain de Médiation Bancaire (CMMB) pour les litiges bancaires, ou s'adresser aux tribunaux de première instance (section de justice de proximité)."
+  },
+  {
+    "id": 20,
+    "domaine": "Protection du Consommateur",
+    "question": "Un professionnel peut-il facturer des frais de dossier supplémentaires non mentionnés dans le contrat initial ?",
+    "reponse_reference": "Non, en vertu du principe d'information claire sur les prix (Article 3 de la Loi 31-08), aucun frais supplémentaire non stipulé expressément et préalablement dans le contrat ne peut être réclamé au consommateur."
+  },
+  {
+    "id": 21,
+    "domaine": "Finance Inclusive - Moudaraba / Moucharaka",
+    "question": "Dans un contrat bancaire participatif Moudaraba au Maroc, comment sont répartis les bénéfices et les pertes financières ?",
+    "reponse_reference": "Selon les avis conformes du Conseil Supérieur des Oulémas (CSO) et la Loi 103-12 relative aux établissements de crédit, les bénéfices sont répartis selon des pourcentages prédéterminés. En revanche, les pertes financières sont entièrement supportées par le bailleur de fonds (Rab Al Maal), sauf faute ou négligence avérée du Moudareb."
+  },
+  {
+    "id": 22,
+    "domaine": "Finance Inclusive - Moudaraba / Moucharaka",
+    "question": "Quelle est la différence fondamentale entre la Moucharaka Thabita (définitive) et la Moucharaka Moutanaqissa (dégressive) ?",
+    "reponse_reference": "Dans la Moucharaka Thabita, les parts des associés restent fixes jusqu'à la fin du contrat. Dans la Moucharaka Moutanaqissa, la banque rachete progressivement ses parts à son partenaire au fil du temps jusqu'à ce que ce dernier devienne l'unique propriétaire de l'actif ou du projet."
+  },
+  {
+    "id": 23,
+    "domaine": "Finance Inclusive - Moudaraba / Moucharaka",
+    "question": "Dans le cadre d'un contrat Moudaraba, le gestionnaire (Moudareb) a-t-il le droit d'exiger une rémunération fixe sous forme de salaire mensuel ?",
+    "reponse_reference": "Non, la Charia et le cadre réglementaire de Bank Al-Maghrib interdisent la fixation d'un salaire ou d'un montant forfaitaire garanti pour le Moudareb. Sa rémunération doit être exclusivement constituée d'une part variable sur les bénéfices réalisés."
+  },
+  {
+    "id": 24,
+    "domaine": "Finance Inclusive - Moudaraba / Moucharaka",
+    "question": "Quelle instance institutionnelle au Maroc garantit la conformité des contrats Moudaraba et Moucharaka à la Charia ?",
+    "reponse_reference": "Conformément à la Loi n° 103-12, la conformité des produits et contrats de la finance participative au Maroc est exclusivement validée par le Comité Sharia pour la Finance Participative (CSFP), relevant du Conseil Supérieur des Oulémas (CSO)."
+  },
+  {
+    "id": 25,
+    "domaine": "Finance Inclusive - Moudaraba / Moucharaka",
+    "question": "Dans une Moucharaka, est-il permis de garantir à l'un des associés le remboursement intégral de son capital investi en cas de perte ?",
+    "reponse_reference": "Non, l'insertion d'une clause garantissant le capital d'un associé en cas de perte commerciale annule la conformité du contrat Moucharaka, car ce contrat repose sur le principe de partage des profits et des pertes (Al Ghounm bil Ghourm)."
+  },
+  {
+    "id": 26,
+    "domaine": "Finance Inclusive - Moudaraba / Moucharaka",
+    "question": "Puis-je apporter des biens ou du matériel au lieu de l'argent pour participer à une Moucharaka ?",
+    "reponse_reference": "Oui, vous pouvez apporter de l'argent ou des biens (matériel, local, terrain...). Si vous apportez des biens, leur valeur en argent sera fixée d'un commun accord ou par un expert au moment de signer le contrat."
+  },
+  {
+    "id": 27,
+    "domaine": "Finance Inclusive - Moudaraba / Moucharaka",
+    "question": "Que se passe-t-il si le gestionnaire du projet (Moudareb) vient à décéder pendant le contrat de Moudaraba ?",
+    "reponse_reference": "Le contrat s'arrête automatiquement car il reposait sur les compétences de cette personne. On fait les comptes à la date du décès, puis le capital restant est rendu à la personne ou la banque qui a financé le projet."
+  },
+  {
+    "id": 28,
+    "domaine": "Finance Inclusive - Moudaraba / Moucharaka",
+    "question": "La banque participative a-t-elle le droit de me demander des garanties ou une caution pour une Moudaraba ou Moucharaka ?",
+    "reponse_reference": "Oui, la banque a le droit de vous demander des garanties. Cependant, elles servent uniquement à la protéger si vous commettez une faute grave, une négligence ou si vous ne respectez pas les règles du contrat."
+  },
+  {
+    "id": 29,
+    "domaine": "Finance Inclusive - Moudaraba / Moucharaka",
+    "question": "Comment est calculé mon loyer mensuel quand j'achète un logement petit à petit avec la Moucharaka Moutanaqissa ?",
+    "reponse_reference": "Chaque mois, vous payez une somme pour racheter une partie du logement à la banque, plus un loyer. Ce loyer baisse au fur et à mesure, car il est calculé uniquement sur la part du logement que la banque possède encore."
+  },
+  {
+    "id": 30,
+    "domaine": "Finance Inclusive - Moudaraba / Moucharaka",
+    "question": "Qu'est-ce qui se passe si je ne respecte pas les limites d'investissement fixées par la banque dans une Moudaraba ?",
+    "reponse_reference": "Si vous dépassez les règles ou investissez dans un domaine non autorisé par le contrat, vous serez tenu pour seul responsable et vous devrez rembourser vous-même la totalité des pertes financières subies."
+  }
+]
